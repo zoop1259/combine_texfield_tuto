@@ -13,6 +13,7 @@
 		C59589B7285756EC00AE9CFD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C59589B5285756EC00AE9CFD /* Main.storyboard */; };
 		C59589B9285756F000AE9CFD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C59589B8285756F000AE9CFD /* Assets.xcassets */; };
 		C59589BC285756F000AE9CFD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C59589BA285756F000AE9CFD /* LaunchScreen.storyboard */; };
+		C59589C4285757DA00AE9CFD /* MyViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = C59589C3285757DA00AE9CFD /* MyViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		C59589B8285756F000AE9CFD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C59589BB285756F000AE9CFD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C59589BD285756F000AE9CFD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C59589C3285757DA00AE9CFD /* MyViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				C59589AF285756EC00AE9CFD /* AppDelegate.swift */,
 				C59589B1285756EC00AE9CFD /* SceneDelegate.swift */,
 				C59589B3285756EC00AE9CFD /* ViewController.swift */,
+				C59589C3285757DA00AE9CFD /* MyViewModel.swift */,
 				C59589B5285756EC00AE9CFD /* Main.storyboard */,
 				C59589B8285756F000AE9CFD /* Assets.xcassets */,
 				C59589BA285756F000AE9CFD /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				C59589B4285756EC00AE9CFD /* ViewController.swift in Sources */,
 				C59589B0285756EC00AE9CFD /* AppDelegate.swift in Sources */,
+				C59589C4285757DA00AE9CFD /* MyViewModel.swift in Sources */,
 				C59589B2285756EC00AE9CFD /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
